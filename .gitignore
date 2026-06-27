@@ -1,0 +1,5 @@
+__pycache__/
+*.py[cod]
+.venv/
+github_treasure.db
+.streamlit/secrets.toml
